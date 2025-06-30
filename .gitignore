@@ -3,3 +3,4 @@ rf_env
 *.png
 *.xml
 *.html
+__pycache__
